@@ -1,0 +1,16 @@
+.box
+{
+    color:rgb(31, 86, 204);
+    margin-left:530px;
+    margin-top:300px;
+   border:ridge;
+   height:auto;
+   width: 450px;;
+   border-color: rgb(159, 18, 18);
+   border-radius: 5px;
+
+}
+.set
+{
+    text-align: center;
+}
